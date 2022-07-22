@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# [FakeShop] (https://fakeshop-b5cf6.web.app)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Getting started with create react app.
 
 ## Available Scripts
 
